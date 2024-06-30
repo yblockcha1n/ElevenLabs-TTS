@@ -1,0 +1,5 @@
+discord
+asyncio
+elevenlabs
+ffmpeg-python
+PyNaCl
